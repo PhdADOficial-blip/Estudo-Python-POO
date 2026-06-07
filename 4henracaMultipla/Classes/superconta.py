@@ -1,0 +1,2 @@
+class SuperConta ():
+    pass
