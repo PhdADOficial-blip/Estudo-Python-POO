@@ -1,0 +1,1 @@
+polimorfismo, podemos usar a mesma função em classes diferentes dando resultado diferentes 
